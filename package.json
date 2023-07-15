@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~13.0.0",
     "@angular/router": "~13.0.0",
     "cross-env": "^7.0.3",
-    "rxjs": "~7.4.0",
+    "rxjs": "~7.8.1",
     "tailwindcss": "^2.2.19",
     "three": "0.135",
     "tslib": "^2.3.0",
